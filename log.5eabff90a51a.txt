@@ -1,0 +1,427 @@
+0000.000 (0) Opened log file at time: Thu, 05 Jan 2023 09:37:21 +0000 on https://grup11.mastercomplus.com
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.24 WP: 6.1.1 PHP: 7.2.24-0ubuntu0.18.04.15 (fpm-fcgi, Linux localhost 4.15.0-29-generic #31-Ubuntu SMP Tue Jul 17 15:39:52 UTC 2018 x86_64) MySQL: 10.1.48-MariaDB-0ubuntu0.18.04.1 (max packet size=16777216) WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 83.1M | 4M) multisite: N openssl: OpenSSL 1.1.1  11 Sep 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 122501.4 MB
+0000.023 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.040 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.079 (0) Set semaphore last lock (fd) time to 2023-01-05 09:37:21
+0000.088 (0) Semaphore lock (fd) complete
+0000.127 (0) Backup run: resumption=0, nonce=5eabff90a51a, file_nonce=5eabff90a51a begun at=1672911441 (1s ago), job type=backup
+0000.155 (0) Scheduling a resumption (1) after 300 seconds (1672911742) in case this run gets aborted
+0000.186 (0) Checking if we have a zip executable available
+0000.197 (0) Creation of backups of directories: beginning
+0000.211 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.792 (0) Total entities for the zip file: 969 directories, 5244 files (0 skipped as non-modified), 80.7 MB
+0002.870 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.928 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.974 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.017 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.061 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12 MB, 548 (548) files added so far); re-opening (prior size: 0 KB)
+0008.074 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 600 files added (on-disk size: 5164.8 KB)
+0008.106 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 700 files added (on-disk size: 5164.8 KB)
+0008.134 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 800 files added (on-disk size: 5164.8 KB)
+0008.165 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 900 files added (on-disk size: 5164.8 KB)
+0008.198 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1000 files added (on-disk size: 5164.8 KB)
+0008.233 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1100 files added (on-disk size: 5164.8 KB)
+0008.274 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1200 files added (on-disk size: 5164.8 KB)
+0008.311 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1300 files added (on-disk size: 5164.8 KB)
+0008.344 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1400 files added (on-disk size: 5164.8 KB)
+0008.376 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1500 files added (on-disk size: 5164.8 KB)
+0008.392 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.4 MB, 5244 files batched, 1001 (1549) added so far); re-opening (prior size: 5164.8 KB)
+0008.902 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1600 files added (on-disk size: 6798.1 KB)
+0008.932 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1700 files added (on-disk size: 6798.1 KB)
+0008.994 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1800 files added (on-disk size: 6798.1 KB)
+0009.027 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 1900 files added (on-disk size: 6798.1 KB)
+0009.057 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2000 files added (on-disk size: 6798.1 KB)
+0009.085 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2100 files added (on-disk size: 6798.1 KB)
+0009.119 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2200 files added (on-disk size: 6798.1 KB)
+0009.148 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2300 files added (on-disk size: 6798.1 KB)
+0009.164 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 5244 files batched, 800 (2349) added so far); re-opening (prior size: 6798.1 KB)
+0011.104 (0) A useful amount of data was added after this amount of zip processing: 3 s (normalised: 3 s, rate: 8472.7 KB/s)
+0011.123 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.0218970775604, normalised_time=3.0214740730344, max_time=11.11324596405, data points known=1, old_max_bytes=26214400, new_max_bytes=57851313)
+0011.172 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2400 files added (on-disk size: 14001.7 KB)
+0011.201 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2500 files added (on-disk size: 14001.7 KB)
+0011.232 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2600 files added (on-disk size: 14001.7 KB)
+0011.264 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2700 files added (on-disk size: 14001.7 KB)
+0011.294 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2800 files added (on-disk size: 14001.7 KB)
+0011.324 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 2900 files added (on-disk size: 14001.7 KB)
+0011.354 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3000 files added (on-disk size: 14001.7 KB)
+0011.386 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3100 files added (on-disk size: 14001.7 KB)
+0011.417 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3200 files added (on-disk size: 14001.7 KB)
+0011.452 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3300 files added (on-disk size: 14001.7 KB)
+0011.468 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 5244 files batched, 1001 (3350) added so far); re-opening (prior size: 14001.7 KB)
+0012.975 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3400 files added (on-disk size: 17456.9 KB)
+0013.006 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3500 files added (on-disk size: 17456.9 KB)
+0013.040 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3600 files added (on-disk size: 17456.9 KB)
+0013.072 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3700 files added (on-disk size: 17456.9 KB)
+0013.102 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3800 files added (on-disk size: 17456.9 KB)
+0013.132 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 3900 files added (on-disk size: 17456.9 KB)
+0013.163 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4000 files added (on-disk size: 17456.9 KB)
+0013.192 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4100 files added (on-disk size: 17456.9 KB)
+0013.224 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4200 files added (on-disk size: 17456.9 KB)
+0013.256 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4300 files added (on-disk size: 17456.9 KB)
+0013.274 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.9 MB, 5244 files batched, 1001 (4351) added so far); re-opening (prior size: 17456.9 KB)
+0013.947 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4400 files added (on-disk size: 20584.1 KB)
+0013.988 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4500 files added (on-disk size: 20584.1 KB)
+0014.027 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4600 files added (on-disk size: 20584.1 KB)
+0014.061 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4700 files added (on-disk size: 20584.1 KB)
+0014.094 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4800 files added (on-disk size: 20584.1 KB)
+0014.129 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 4900 files added (on-disk size: 20584.1 KB)
+0014.169 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 5000 files added (on-disk size: 20584.1 KB)
+0014.210 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 5100 files added (on-disk size: 20584.1 KB)
+0014.240 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.tmp: 5200 files added (on-disk size: 20584.1 KB)
+0016.525 (0) Creating zip file manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.list-temp.tmp)
+0016.551 (0) Successfully created zip file manifest (size: 415960)
+0016.905 (0) Created plugins zip (0) - 25764.1 KB in 16.7 s (1545.2 KB/s) (sha1: 7bc4e6f20338d5277f7e0ecc2c07952a36698f95, sha256: 502d633dbb675ecdcc2fb0b3bd40ecbc3c85d89e1f2b035e5fc5f381d6294a4d)
+0016.927 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.936 (0) No remote despatch: user chose no remote backup service
+0016.946 (0) Recording as successfully uploaded: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip
+0016.965 (0) Deleting zip manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip.list.tmp)
+0016.985 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.995 (0) Number of backup sets in history: 1; groups (db): 1
+0017.004 (0) Examining (for databases) backup set with group_id=0, nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0017.014 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0017.023 (0) Number of backup sets in history: 1; groups (files): 1
+0017.033 (0) Examining (for files) backup set with nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0017.033 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0017.042 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0017.081 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.263 (0) Total entities for the zip file: 90 directories, 433 files (0 skipped as non-modified), 14.2 MB
+0017.292 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.320 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.346 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.377 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0018.043 (0) Creating zip file manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.list-temp.tmp)
+0018.052 (0) Successfully created zip file manifest (size: 30575)
+0018.237 (0) Created themes zip (0) - 12305.4 KB in 1.1 s (10846.2 KB/s) (sha1: bcee67066d8e120f18c8514b6ce4d4a7a6a910ff, sha256: cb5ff018758bf70dcb172f796a30349aede4780ed7151c2cfae776a212b356a2)
+0018.266 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0018.276 (0) No remote despatch: user chose no remote backup service
+0018.286 (0) Recording as successfully uploaded: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip
+0018.305 (0) Deleting zip manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip.list.tmp)
+0018.324 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.335 (0) Number of backup sets in history: 1; groups (db): 1
+0018.344 (0) Examining (for databases) backup set with group_id=0, nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0018.344 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.353 (0) Number of backup sets in history: 1; groups (files): 1
+0018.363 (0) Examining (for files) backup set with nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0018.363 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.372 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.411 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0018.421 (0) Looking for candidates to backup in: /var/www/vhosts/mastercomplus.com/grup11/wp-content/uploads
+0018.431 (0) finding files: 2023: adding to list (1)
+0018.440 (0) finding files: elementor: adding to list (2)
+0018.461 (0) finding files: 2022: adding to list (3)
+0018.470 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0018.619 (0) Total entities for the zip file: 8 directories, 441 files (0 skipped as non-modified), 58.3 MB
+0018.646 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0018.673 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0018.699 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0018.726 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0018.729 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 55.2 MB added on this batch (55.2 MB, 441 files batched, 404 (404) added so far); re-opening (prior size: 0 KB)
+0019.234 (0) A useful amount of data was added after this amount of zip processing: 1.2 s (normalised: 1.2 s, rate: 49094.7 KB/s)
+0019.253 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.1515009403229, normalised_time=1.1507447282325, max_time=19.242636919022, data points known=1, old_max_bytes=57851313, new_max_bytes=209715200)
+0019.514 (0) Creating zip file manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.list-temp.tmp)
+0019.523 (0) Successfully created zip file manifest (size: 28073)
+0020.589 (0) Created uploads zip (0) - 59742.5 KB in 2.1 s (28480.1 KB/s) (sha1: b1d0ebc13404655d088ecdb984c9ef7ca0227c1d, sha256: 3c9e2158a834aed90780015b838d16c8b5db5b6c97dbd1eb5669e35d40d73251)
+0020.618 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0020.627 (0) No remote despatch: user chose no remote backup service
+0020.637 (0) Recording as successfully uploaded: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip
+0020.656 (0) Deleting zip manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip.list.tmp)
+0020.675 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0020.685 (0) Number of backup sets in history: 1; groups (db): 1
+0020.694 (0) Examining (for databases) backup set with group_id=0, nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0020.704 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.713 (0) Number of backup sets in history: 1; groups (files): 1
+0020.723 (0) Examining (for files) backup set with nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0020.723 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.733 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0020.772 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.782 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0020.791 (0) Looking for candidates to backup in: /var/www/vhosts/mastercomplus.com/grup11/wp-content
+0020.801 (0) finding files: maintenance: adding to list (1)
+0020.810 (0) finding files: updraft: skipping: this is the updraft directory
+0020.820 (0) finding files: plugins: skipping: this is the plugins directory
+0020.830 (0) finding files: wflogs: adding to list (2)
+0020.840 (0) finding files: wptouch-data: adding to list (3)
+0020.849 (0) finding files: themes: skipping: this is the themes directory
+0020.859 (0) finding files: index.php: adding to list (4)
+0020.869 (0) finding files: upgrade: skipping: excluded by options
+0020.879 (0) finding files: maintenance.php: adding to list (5)
+0020.888 (0) finding files: uploads: skipping: this is the uploads directory
+0020.898 (0) finding files: languages: adding to list (6)
+0020.990 (0) Total entities for the zip file: 20 directories, 257 files (0 skipped as non-modified), 15.9 MB
+0021.016 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.040 (0) Zip: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0026.165 (0) Creating zip file manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip.list-temp.tmp)
+0026.174 (0) Successfully created zip file manifest (size: 18235)
+0026.307 (0) Created others zip (0) - 8059.7 KB in 5.4 s (1495.9 KB/s) (sha1: d2f0b53841f2bd092b928a00c1354f254470fdd6, sha256: 05fa002eb5ab0402786d1d810aeb578330d5e3c7285786cc57c81fd50b046443)
+0026.336 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0026.346 (0) No remote despatch: user chose no remote backup service
+0026.356 (0) Recording as successfully uploaded: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip
+0026.375 (0) Deleting zip manifest (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip.list.tmp)
+0026.394 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0026.404 (0) Number of backup sets in history: 1; groups (db): 1
+0026.414 (0) Examining (for databases) backup set with group_id=0, nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0026.423 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0026.433 (0) Number of backup sets in history: 1; groups (files): 1
+0026.443 (0) Examining (for files) backup set with nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0026.443 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0026.453 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0026.513 (0) Saving backup status to database (elements: 8)
+0026.532 (0) Beginning creation of database dump (WordPress DB)
+0026.542 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0026.590 (0) Table nH3Kv_options: Total expected rows (via COUNT): 493
+0026.600 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.706 (0) Table nH3Kv_options: Rows added in this batch (next record: 4688): 489 (uncompressed bytes in this segment=1671166) in 0.12 seconds
+0026.731 (0) Table nH3Kv_options: finishing file(s) (2, 338.1 KB)
+0026.752 (0) Table nH3Kv_users: Total expected rows (via COUNT): 1
+0026.760 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.779 (0) Table nH3Kv_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1418) in 0.03 seconds
+0026.810 (0) Table nH3Kv_users: finishing file(s) (2, 0.6 KB)
+0026.839 (0) Table nH3Kv_usermeta: Total expected rows (via COUNT): 30
+0026.849 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0026.868 (0) Table nH3Kv_usermeta: Rows added in this batch (next record: 38): 30 (uncompressed bytes in this segment=7208) in 0.04 seconds
+0026.906 (0) Table nH3Kv_usermeta: finishing file(s) (2, 2.9 KB)
+0026.935 (0) Table nH3Kv_commentmeta: Total expected rows (via COUNT): 0
+0026.955 (0) Table nH3Kv_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=703) in 0.03 seconds
+0026.992 (0) Table nH3Kv_commentmeta: finishing file(s) (2, 0.4 KB)
+0027.014 (0) Table nH3Kv_comments: Total expected rows (via COUNT): 1
+0027.023 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.043 (0) Table nH3Kv_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2162) in 0.03 seconds
+0027.072 (0) Table nH3Kv_comments: finishing file(s) (2, 0.8 KB)
+0027.094 (0) Table nH3Kv_links: Total expected rows (via COUNT): 0
+0027.111 (0) Table nH3Kv_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1328) in 0.02 seconds
+0027.140 (0) Table nH3Kv_links: finishing file(s) (2, 0.5 KB)
+0027.169 (0) Table nH3Kv_postmeta: Total expected rows (approximate): 2683
+0027.265 (0) Table nH3Kv_postmeta: Rows added in this batch (next record: 3318): 2575 (uncompressed bytes in this segment=1512754) in 0.11 seconds
+0027.291 (0) Table nH3Kv_postmeta: finishing file(s) (2, 109.7 KB)
+0027.321 (0) Table nH3Kv_posts: Total expected rows (via COUNT): 492
+0027.331 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.392 (0) Table nH3Kv_posts: Rows added in this batch (next record: 582): 492 (uncompressed bytes in this segment=1074021) in 0.08 seconds
+0027.427 (0) Table nH3Kv_posts: finishing file(s) (2, 94.1 KB)
+0027.448 (0) Table nH3Kv_term_relationships: Total expected rows (approximate): 26
+0027.468 (0) Table nH3Kv_term_relationships: Rows added in this batch (next record: 100000): 25 (uncompressed bytes in this segment=1054) in 0.02 seconds
+0027.497 (0) Table nH3Kv_term_relationships: finishing file(s) (2, 0.5 KB)
+0027.526 (0) Table nH3Kv_term_taxonomy: Total expected rows (via COUNT): 4
+0027.536 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.557 (0) Table nH3Kv_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1041) in 0.04 seconds
+0027.597 (0) Table nH3Kv_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0027.626 (0) Table nH3Kv_termmeta: Total expected rows (via COUNT): 0
+0027.645 (0) Table nH3Kv_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=676) in 0.03 seconds
+0027.685 (0) Table nH3Kv_termmeta: finishing file(s) (2, 0.4 KB)
+0027.707 (0) Table nH3Kv_terms: Total expected rows (via COUNT): 4
+0027.714 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.734 (0) Table nH3Kv_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=913) in 0.03 seconds
+0027.764 (0) Table nH3Kv_terms: finishing file(s) (2, 0.5 KB)
+0027.785 (0) Table nH3Kv_e_events: Total expected rows (via COUNT): 3
+0027.793 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0027.803 (0) Table nH3Kv_e_events: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1178) in 0.02 seconds
+0027.832 (0) Table nH3Kv_e_events: finishing file(s) (2, 0.6 KB)
+0027.853 (0) Table nH3Kv_litespeed_url: Total expected rows (via COUNT): 0
+0027.870 (0) Table nH3Kv_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.02 seconds
+0027.901 (0) Table nH3Kv_litespeed_url: finishing file(s) (2, 0.4 KB)
+0027.923 (0) Table nH3Kv_litespeed_url_file: Total expected rows (via COUNT): 0
+0027.932 (0) Table nH3Kv_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1129) in 0.01 seconds
+0027.962 (0) Table nH3Kv_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0027.984 (0) Table nH3Kv_wfblockediplog: Total expected rows (approximate): 0
+0027.992 (0) Table nH3Kv_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=647) in 0.01 seconds
+0028.021 (0) Table nH3Kv_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0028.043 (0) Table nH3Kv_wfblocks7: Total expected rows (via COUNT): 0
+0028.051 (0) Table nH3Kv_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.01 seconds
+0028.080 (0) Table nH3Kv_wfblocks7: finishing file(s) (2, 0.4 KB)
+0028.102 (0) Table nH3Kv_wfconfig: Total expected rows (approximate): 261
+0028.165 (0) Table nH3Kv_wfconfig: Rows added in this batch (next record: 1000): 263 (uncompressed bytes in this segment=825213) in 0.06 seconds
+0028.188 (0) Table nH3Kv_wfconfig: finishing file(s) (2, 427.8 KB)
+0028.210 (0) Table nH3Kv_wfcrawlers: Total expected rows (approximate): 0
+0028.217 (0) Table nH3Kv_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=570) in 0.01 seconds
+0028.247 (0) Table nH3Kv_wfcrawlers: finishing file(s) (2, 0.3 KB)
+0028.270 (0) Table nH3Kv_wffilechanges: Total expected rows (approximate): 0
+0028.278 (0) Table nH3Kv_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=470) in 0.01 seconds
+0028.307 (0) Table nH3Kv_wffilechanges: finishing file(s) (2, 0.3 KB)
+0028.329 (0) Table nH3Kv_wffilemods: Total expected rows (approximate): 6601
+0028.518 (0) Table nH3Kv_wffilemods: Rows added in this batch (next record: 8000): 7009 (uncompressed bytes in this segment=2550165) in 0.19 seconds
+0028.542 (0) Table nH3Kv_wffilemods: finishing file(s) (2, 725.8 KB)
+0028.563 (0) Table nH3Kv_wfhits: Total expected rows (via COUNT): 18
+0028.571 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0028.591 (0) Table nH3Kv_wfhits: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=7727) in 0.03 seconds
+0028.620 (0) Table nH3Kv_wfhits: finishing file(s) (2, 1.3 KB)
+0028.641 (0) Table nH3Kv_wfhoover: Total expected rows (via COUNT): 0
+0028.659 (0) Table nH3Kv_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=494) in 0.02 seconds
+0028.688 (0) Table nH3Kv_wfhoover: finishing file(s) (2, 0.3 KB)
+0028.710 (0) Table nH3Kv_wfissues: Total expected rows (via COUNT): 2
+0028.718 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0028.737 (0) Table nH3Kv_wfissues: Rows added in this batch (next record: 37): 2 (uncompressed bytes in this segment=2449) in 0.03 seconds
+0028.767 (0) Table nH3Kv_wfissues: finishing file(s) (2, 1.2 KB)
+0028.787 (0) Table nH3Kv_wfknownfilelist: Total expected rows (approximate): 7029
+0028.854 (0) Table nH3Kv_wfknownfilelist: Rows added in this batch (next record: 7009): 7009 (uncompressed bytes in this segment=1252094) in 0.07 seconds
+0028.877 (0) Table nH3Kv_wfknownfilelist: finishing file(s) (2, 95.7 KB)
+0028.897 (0) Table nH3Kv_wflivetraffichuman: Total expected rows (approximate): 0
+0028.905 (0) Table nH3Kv_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=666) in 0.01 seconds
+0028.934 (0) Table nH3Kv_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0028.955 (0) Table nH3Kv_wflocs: Total expected rows (approximate): 1
+0028.964 (0) Table nH3Kv_wflocs: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=856) in 0.01 seconds
+0028.993 (0) Table nH3Kv_wflocs: finishing file(s) (2, 0.5 KB)
+0029.014 (0) Table nH3Kv_wflogins: Total expected rows (via COUNT): 16
+0029.022 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.042 (0) Table nH3Kv_wflogins: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=4169) in 0.03 seconds
+0029.070 (0) Table nH3Kv_wflogins: finishing file(s) (2, 0.9 KB)
+0029.092 (0) Table nH3Kv_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+0029.109 (0) Table nH3Kv_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=699) in 0.02 seconds
+0029.139 (0) Table nH3Kv_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0029.159 (0) Table nH3Kv_wfls_settings: Total expected rows (approximate): 24
+0029.168 (0) Table nH3Kv_wfls_settings: Rows added in this batch (next record: 1000): 24 (uncompressed bytes in this segment=1826) in 0.01 seconds
+0029.197 (0) Table nH3Kv_wfls_settings: finishing file(s) (2, 0.9 KB)
+0029.217 (0) Table nH3Kv_wfnotifications: Total expected rows (approximate): 7
+0029.226 (0) Table nH3Kv_wfnotifications: Rows added in this batch (next record: 1000): 7 (uncompressed bytes in this segment=2553) in 0.01 seconds
+0029.254 (0) Table nH3Kv_wfnotifications: finishing file(s) (2, 0.9 KB)
+0029.276 (0) Table nH3Kv_wfpendingissues: Total expected rows (via COUNT): 0
+0029.284 (0) Table nH3Kv_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=864) in 0.01 seconds
+0029.313 (0) Table nH3Kv_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0029.334 (0) Table nH3Kv_wfreversecache: Total expected rows (approximate): 1
+0029.342 (0) Table nH3Kv_wfreversecache: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=631) in 0.01 seconds
+0029.371 (0) Table nH3Kv_wfreversecache: finishing file(s) (2, 0.4 KB)
+0029.392 (0) Table nH3Kv_wfsnipcache: Total expected rows (via COUNT): 0
+0029.400 (0) Table nH3Kv_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=736) in 0.01 seconds
+0029.429 (0) Table nH3Kv_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0029.451 (0) Table nH3Kv_wfstatus: Total expected rows (via COUNT): 736
+0029.463 (0) Table nH3Kv_wfstatus: Rows added in this batch (next record: 1156): 736 (uncompressed bytes in this segment=75953) in 0.01 seconds
+0029.487 (0) Table nH3Kv_wfstatus: finishing file(s) (2, 12.1 KB)
+0029.508 (0) Table nH3Kv_wftrafficrates: Total expected rows (approximate): 0
+0029.516 (0) Table nH3Kv_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=584) in 0.01 seconds
+0029.545 (0) Table nH3Kv_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0029.574 (0) Table nH3Kv_yoast_indexable: Total expected rows (via COUNT): 112
+0029.583 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.612 (0) Table nH3Kv_yoast_indexable: Rows added in this batch (next record: 112): 112 (uncompressed bytes in this segment=106990) in 0.05 seconds
+0029.644 (0) Table nH3Kv_yoast_indexable: finishing file(s) (2, 15.3 KB)
+0029.667 (0) Table nH3Kv_yoast_indexable_hierarchy: Total expected rows (approximate): 108
+0029.684 (0) Table nH3Kv_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 108 (uncompressed bytes in this segment=2609) in 0.02 seconds
+0029.714 (0) Table nH3Kv_yoast_indexable_hierarchy: finishing file(s) (2, 0.7 KB)
+0029.736 (0) Table nH3Kv_yoast_migrations: Total expected rows (via COUNT): 23
+0029.743 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.763 (0) Table nH3Kv_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1267) in 0.03 seconds
+0029.793 (0) Table nH3Kv_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0029.814 (0) Table nH3Kv_yoast_primary_term: Total expected rows (via COUNT): 2
+0029.822 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.832 (0) Table nH3Kv_yoast_primary_term: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1087) in 0.02 seconds
+0029.861 (0) Table nH3Kv_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0029.883 (0) Table nH3Kv_yoast_seo_links: Total expected rows (via COUNT): 50
+0029.890 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0029.910 (0) Table nH3Kv_yoast_seo_links: Rows added in this batch (next record: 67): 50 (uncompressed bytes in this segment=9374) in 0.03 seconds
+0029.940 (0) Table nH3Kv_yoast_seo_links: finishing file(s) (2, 2.2 KB)
+0029.952 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_options.table.tmpr4689.gz (1/41/fopen): adding to final database dump
+0029.970 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_options.table.gz (2/41/fopen): adding to final database dump
+0029.973 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_users.table.tmpr2.gz (3/41/fopen): adding to final database dump
+0029.983 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_users.table.gz (4/41/fopen): adding to final database dump
+0029.994 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_usermeta.table.tmpr39.gz (5/41/fopen): adding to final database dump
+0030.004 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_usermeta.table.gz (6/41/fopen): adding to final database dump
+0030.014 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_commentmeta.table.tmpr0.gz (7/41/fopen): adding to final database dump
+0030.025 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_commentmeta.table.gz (8/41/fopen): adding to final database dump
+0030.035 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_comments.table.tmpr2.gz (9/41/fopen): adding to final database dump
+0030.046 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_comments.table.gz (10/41/fopen): adding to final database dump
+0030.055 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_links.table.tmpr0.gz (11/41/fopen): adding to final database dump
+0030.066 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_links.table.gz (12/41/fopen): adding to final database dump
+0030.075 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_postmeta.table.tmpr3319.gz (13/41/fopen): adding to final database dump
+0030.088 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_postmeta.table.gz (14/41/fopen): adding to final database dump
+0030.094 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_posts.table.tmpr583.gz (15/41/fopen): adding to final database dump
+0030.107 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_posts.table.gz (16/41/fopen): adding to final database dump
+0030.114 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_term_relationships.table.tmpr100001.gz (17/41/fopen): adding to final database dump
+0030.123 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_term_relationships.table.gz (18/41/fopen): adding to final database dump
+0030.133 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_term_taxonomy.table.tmpr5.gz (19/41/fopen): adding to final database dump
+0030.143 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_term_taxonomy.table.gz (20/41/fopen): adding to final database dump
+0030.152 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_termmeta.table.tmpr0.gz (21/41/fopen): adding to final database dump
+0030.162 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_termmeta.table.gz (22/41/fopen): adding to final database dump
+0030.172 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_terms.table.tmpr5.gz (23/41/fopen): adding to final database dump
+0030.182 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_terms.table.gz (24/41/fopen): adding to final database dump
+0030.191 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_e_events.table.tmpr4.gz (25/41/fopen): adding to final database dump
+0030.201 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_e_events.table.gz (26/41/fopen): adding to final database dump
+0030.211 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_litespeed_url.table.tmpr0.gz (27/41/fopen): adding to final database dump
+0030.221 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_litespeed_url.table.gz (28/41/fopen): adding to final database dump
+0030.230 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_litespeed_url_file.table.tmpr0.gz (29/41/fopen): adding to final database dump
+0030.240 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_litespeed_url_file.table.gz (30/41/fopen): adding to final database dump
+0030.250 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfblockediplog.table.tmpr1.gz (31/41/fopen): adding to final database dump
+0030.259 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfblockediplog.table.gz (32/41/fopen): adding to final database dump
+0030.269 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfblocks7.table.tmpr0.gz (33/41/fopen): adding to final database dump
+0030.279 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfblocks7.table.gz (34/41/fopen): adding to final database dump
+0030.288 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfconfig.table.tmpr1001.gz (35/41/fopen): adding to final database dump
+0030.306 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfconfig.table.gz (36/41/fopen): adding to final database dump
+0030.309 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfcrawlers.table.tmpr1.gz (37/41/fopen): adding to final database dump
+0030.317 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfcrawlers.table.gz (38/41/fopen): adding to final database dump
+0030.320 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wffilechanges.table.tmpr1.gz (39/41/fopen): adding to final database dump
+0030.329 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wffilechanges.table.gz (40/41/fopen): adding to final database dump
+0030.332 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wffilemods.table.tmpr8001.gz (41/41/fopen): adding to final database dump
+0030.358 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wffilemods.table.gz (42/41/fopen): adding to final database dump
+0030.361 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfhits.table.tmpr19.gz (43/41/fopen): adding to final database dump
+0030.370 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfhits.table.gz (44/41/fopen): adding to final database dump
+0030.373 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfhoover.table.tmpr0.gz (45/41/fopen): adding to final database dump
+0030.383 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfhoover.table.gz (46/41/fopen): adding to final database dump
+0030.393 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfissues.table.tmpr38.gz (47/41/fopen): adding to final database dump
+0030.402 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfissues.table.gz (48/41/fopen): adding to final database dump
+0030.412 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfknownfilelist.table.tmpr7010.gz (49/41/fopen): adding to final database dump
+0030.424 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfknownfilelist.table.gz (50/41/fopen): adding to final database dump
+0030.432 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflivetraffichuman.table.tmpr1.gz (51/41/fopen): adding to final database dump
+0030.441 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflivetraffichuman.table.gz (52/41/fopen): adding to final database dump
+0030.451 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflocs.table.tmpr1001.gz (53/41/fopen): adding to final database dump
+0030.461 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflocs.table.gz (54/41/fopen): adding to final database dump
+0030.470 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflogins.table.tmpr17.gz (55/41/fopen): adding to final database dump
+0030.480 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wflogins.table.gz (56/41/fopen): adding to final database dump
+0030.491 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfls_2fa_secrets.table.tmpr0.gz (57/41/fopen): adding to final database dump
+0030.501 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfls_2fa_secrets.table.gz (58/41/fopen): adding to final database dump
+0030.510 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfls_settings.table.tmpr1001.gz (59/41/fopen): adding to final database dump
+0030.520 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfls_settings.table.gz (60/41/fopen): adding to final database dump
+0030.530 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfnotifications.table.tmpr1001.gz (61/41/fopen): adding to final database dump
+0030.539 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfnotifications.table.gz (62/41/fopen): adding to final database dump
+0030.549 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfpendingissues.table.tmpr0.gz (63/41/fopen): adding to final database dump
+0030.559 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfpendingissues.table.gz (64/41/fopen): adding to final database dump
+0030.568 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfreversecache.table.tmpr1001.gz (65/41/fopen): adding to final database dump
+0030.578 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfreversecache.table.gz (66/41/fopen): adding to final database dump
+0030.587 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfsnipcache.table.tmpr0.gz (67/41/fopen): adding to final database dump
+0030.597 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfsnipcache.table.gz (68/41/fopen): adding to final database dump
+0030.607 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfstatus.table.tmpr1157.gz (69/41/fopen): adding to final database dump
+0030.617 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wfstatus.table.gz (70/41/fopen): adding to final database dump
+0030.626 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wftrafficrates.table.tmpr1.gz (71/41/fopen): adding to final database dump
+0030.636 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_wftrafficrates.table.gz (72/41/fopen): adding to final database dump
+0030.647 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_indexable.table.tmpr113.gz (73/41/fopen): adding to final database dump
+0030.656 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_indexable.table.gz (74/41/fopen): adding to final database dump
+0030.666 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_indexable_hierarchy.table.tmpr1001.gz (75/41/fopen): adding to final database dump
+0030.675 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_indexable_hierarchy.table.gz (76/41/fopen): adding to final database dump
+0030.685 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_migrations.table.tmpr24.gz (77/41/fopen): adding to final database dump
+0030.695 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_migrations.table.gz (78/41/fopen): adding to final database dump
+0030.704 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_primary_term.table.tmpr3.gz (79/41/fopen): adding to final database dump
+0030.714 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_primary_term.table.gz (80/41/fopen): adding to final database dump
+0030.723 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_seo_links.table.tmpr68.gz (81/41/fopen): adding to final database dump
+0030.733 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db-table-nH3Kv_yoast_seo_links.table.gz (82/41/fopen): adding to final database dump
+0030.746 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db.gz: finished writing out complete database file (1840.5 KB)
+0030.792 (0) Total database tables backed up: 41 (backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db.gz, size: 1884740, sha1: 67d6b7ee11c50f9aeb95da44afa11bd389f53ad4, sha256: cdc467aa28feede7793b2a2024ac5e92bdd541bc6537bb0558db8f6b7e863ac4)
+0030.831 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-plugins.zip: plugins: This file has already been successfully uploaded
+0030.841 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-themes.zip: themes: This file has already been successfully uploaded
+0030.850 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-uploads.zip: uploads: This file has already been successfully uploaded
+0030.860 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-others.zip: others: This file has already been successfully uploaded
+0030.869 (0) backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0030.879 (0) Saving backup history. Total backup size: 105.2 MB
+0030.897 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0030.926 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0030.935 (0) No remote despatch: user chose no remote backup service
+0030.944 (0) Recording as successfully uploaded: backup_2023-01-05-0937_Travel_with_us_5eabff90a51a-db.gz
+0030.973 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0030.983 (0) Number of backup sets in history: 2; groups (db): 1
+0030.992 (0) Examining (for databases) backup set with group_id=0, nonce=5eabff90a51a, datestamp=1672911441 (Jan 05 2023 09:37:21)
+0031.001 (0) This backup set is the backup set just made, so will not be deleted.
+0031.001 (0) Examining (for databases) backup set with group_id=0, nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0031.001 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.012 (0) Number of backup sets in history: 2; groups (files): 1
+0031.021 (0) Examining (for files) backup set with nonce=5eabff90a51a, datestamp=1672911441 (Jan 05 2023 09:37:21)
+0031.021 (0) This backup set is the backup set just made, so will not be deleted.
+0031.031 (0) This backup set is the backup set just made, so will not be deleted.
+0031.031 (0) This backup set is the backup set just made, so will not be deleted.
+0031.031 (0) This backup set is the backup set just made, so will not be deleted.
+0031.032 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.041 (0) Examining (for files) backup set with nonce=74213ed6ea45, datestamp=1672910968 (Jan 05 2023 09:29:28)
+0031.041 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.041 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0031.060 (0) Resume backup (5eabff90a51a, 0): finish run
+0031.090 (0) Decremented the semaphore (fd) by 1
+0031.109 (0) Semaphore (fd) unlocked
+0031.129 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0031.167 (0) The backup apparently succeeded and is now complete
+0031.177 (0) No email will/can be sent - the user has not configured an email address.
+0031.186 (0) Aparentemente, la copia de seguridad ha sido correcta y ahora está completa
